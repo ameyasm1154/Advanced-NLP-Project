@@ -1,0 +1,3 @@
+epoch = 5.0
+train_runtime = 8025.9283
+train_samples_per_second = 1.465

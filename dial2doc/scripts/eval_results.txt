@@ -1,0 +1,11 @@
+HasAns_exact = 39.19939577039275
+HasAns_f1 = 54.822843637007125
+HasAns_total = 3972
+best_exact = 39.19939577039275
+best_exact_thresh = 0.0
+best_f1 = 54.822843637007125
+best_f1_thresh = 0.0
+epoch = 5.0
+exact = 39.19939577039275
+f1 = 54.822843637007125
+total = 3972
